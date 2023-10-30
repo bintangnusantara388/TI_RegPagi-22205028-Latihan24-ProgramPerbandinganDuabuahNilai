@@ -6,7 +6,12 @@ package latihan24;
 import java.util.Scanner;
 /**
  *
- * @author User
+ * @author user 
+ Nama              : Bintang Fajar Nusantara 
+ Nim               : 22205028 
+ Prodi             : Teknik Informatika 
+ Kelas             : PBO 1
+ Deskripsi Program : Program ini berisi program yang menampilkan ProgramPerbandinganDuabuahNilai
  */
 public class Latihan24 {
     public static void main(String[] args) {
